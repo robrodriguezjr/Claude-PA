@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(find:*)",
+      "WebFetch(domain:petapixel.com)",
+      "WebFetch(domain:scottkelby.com)",
+      "Bash(python3:*)",
+      "WebFetch(domain:lightroomkillertips.com)",
+      "WebFetch(domain:digital-photography-school.com)",
+      "WebFetch(domain:davidduchemin.com)",
+      "WebFetch(domain:guytal.blog)",
+      "WebSearch",
+      "Bash(ssh:*)",
+      "Read(//Users/robjr/Documents/**)",
+      "Read(//private/tmp/**)",
+      "mcp__basic-memory__read_note"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
