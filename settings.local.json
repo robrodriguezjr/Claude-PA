@@ -15,7 +15,8 @@
       "Read(//Users/robjr/Documents/**)",
       "Read(//private/tmp/**)",
       "mcp__basic-memory__read_note",
-      "WebFetch(domain:every.to)"
+      "WebFetch(domain:every.to)",
+      "Read(//Users/robjr/.claude/**)"
     ],
     "deny": [],
     "ask": []
