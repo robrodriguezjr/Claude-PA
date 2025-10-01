@@ -14,7 +14,8 @@
       "Bash(ssh:*)",
       "Read(//Users/robjr/Documents/**)",
       "Read(//private/tmp/**)",
-      "mcp__basic-memory__read_note"
+      "mcp__basic-memory__read_note",
+      "WebFetch(domain:every.to)"
     ],
     "deny": [],
     "ask": []

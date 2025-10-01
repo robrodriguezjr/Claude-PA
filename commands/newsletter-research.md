@@ -4,7 +4,7 @@
 Run a complete research → draft workflow for weekly newsletters.
 
 ## Steps
-1. Read newsletter URLs from `Claude-PA/inputs/newsletter_links.md`  
+1. Read newsletter URLs from `Claude-PA/newsletter/research links.md`  
    - If the file doesn’t exist, ask the user to provide links.  
    - Include Robert’s own newsletter and competitor newsletters.
 
