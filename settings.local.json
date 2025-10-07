@@ -16,7 +16,13 @@
       "Read(//private/tmp/**)",
       "mcp__basic-memory__read_note",
       "WebFetch(domain:every.to)",
-      "Read(//Users/robjr/.claude/**)"
+      "Read(//Users/robjr/.claude/**)",
+      "mcp__basic-memory__build_context",
+      "mcp__basic-memory__search_notes",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__playwright__browser_close",
+      "Bash(open http://localhost:8080)"
     ],
     "deny": [],
     "ask": []
