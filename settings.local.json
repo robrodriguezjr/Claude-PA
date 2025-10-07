@@ -19,10 +19,10 @@
       "Read(//Users/robjr/.claude/**)",
       "mcp__basic-memory__build_context",
       "mcp__basic-memory__search_notes",
-      "mcp__playwright__browser_navigate",
-      "mcp__playwright__browser_take_screenshot",
-      "mcp__playwright__browser_close",
-      "Bash(open http://localhost:8080)"
+      "mcp__basic-memory__edit_note",
+      "SlashCommand(/academy-insights)",
+      "mcp__basic-memory__write_note",
+      "Bash(mv:*)"
     ],
     "deny": [],
     "ask": []
